@@ -5,13 +5,18 @@
 }
 .redes{
     margin-right: 0.5em;
-}
+    
+    }
+  
 #logoAP{
     width: 150px;
 }
 img{
     width: 30px;
+    margin-right: 10px;
+    
 } 
+
 .btn{
     border-width: medium;
 }
